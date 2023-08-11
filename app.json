@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "14aab9c3-7957-48b6-a986-c0ee8dd0b039"
+      }
+    },
+    "owner": "andrasat"
   }
 }
